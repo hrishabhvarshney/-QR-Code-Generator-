@@ -30,7 +30,7 @@ This simple web application allows you to generate QR codes for text or URLs of 
 
 ## Preview:
 
-![QR Code Generator Preview](https://github.com/davidshimjs/qrcodejs)
+![QR Code Generator Preview](photo/Qr_code_generator.png)
 
 ## Credits:
 
